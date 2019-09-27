@@ -1,0 +1,31 @@
+body{
+  background-color: #333333;
+}
+h2, h3{
+  font-family: 'Montserrat', sans-serif;
+  padding: 0.5rem;
+}
+.contenedor{
+  background-color: white;
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  text-align: center;
+  border: solid 1px gray;
+  border-radius: 10px;
+  padding: 1rem;
+}
+.form-style{
+  padding: 0.5rem;
+}
+.input-group.mb-3{
+  width: 50%;
+  margin: auto;
+}
+table{
+  text-align: center;
+}
+#tableDiv{
+  text-align: left;
+}
